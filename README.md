@@ -11,6 +11,11 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/nishant-singh-3b931a357/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/nishant-singh-3b931a357/" /></a>
+<p align="left">
+  <a href="https://www.instagram.com/_nishaxtrajput234/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@_nishaxtrajput234-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
